@@ -18,7 +18,7 @@ public class Lexica {
     public static String numerosEnteros ="Numeros enteros: ";
     public static String numerosDecimales="Numeros decimales: ";
     public static String id="Id: ";
-    public static String errores="Errores: ";
+    public static String errores="Errores:  ";
     
     
   
